@@ -1,4 +1,4 @@
-###<h1> Hi there [Sairam Lakkireddygari](https://sairamlakkireddy.netlify.app/)! 👋</h1>
+#<h1> Hi there [Sairam Lakkireddygari](https://sairamlakkireddy.netlify.app/)! 👋</h1>
 
 <!--
 **Lakkireddygarisai/Lakkireddygarisai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/django.svg" alt="Django" width="30" height="30">
 -->
-## About Me
+# About Me
 I'm a Full Stack Developer with a passion for web development. I enjoy working on both frontend and backend technologies. I also have a background in art, making me an artist as well.
 
 - 🔭 I’m currently working as an Assosiate Software Engineer.
