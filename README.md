@@ -86,9 +86,10 @@ I'm a Full Stack Developer with a passion for web development. I enjoy working o
 
 
 
-
+<div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Lakkireddygarisai&theme=default&hide_border=false)<br/>
+</div>
 
 
 
