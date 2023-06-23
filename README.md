@@ -22,22 +22,23 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sai_single1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sairam-lakkireddy/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sairam12312) 
 
 # 💻 Tech Stack
-<img src="https://simpleicons.org/icons/css3.svg" alt="CSS3" width="30" height="30">
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="30" height="30">
-<img src="https://simpleicons.org/icons/r.svg" alt="R" width="30" height="30">
-<img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="30" height="30">
-<img src="https://simpleicons.org/icons/django.svg" alt="Django" width="30" height="30">
-<img src="https://simpleicons.org/icons/react.svg" alt="React" width="30" height="30">
-<img src="https://simpleicons.org/icons/tailwindcss.svg" alt="TailwindCSS" width="30" height="30">
-<img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="30" height="30">
-<img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" width="30" height="30">
-<img src="https://simpleicons.org/icons/figma.svg" alt="Figma" width="30" height="30">
-<img src="https://simpleicons.org/icons/pandas.svg" alt="Pandas" width="30" height="30">
-<img src="https://simpleicons.org/icons/numpy.svg" alt="NumPy" width="30" height="30">
-<img src="https://simpleicons.org/icons/express.svg" alt="Express.js" width="30" height="30">
-<img src="https://simpleicons.org/icons/node-dot-js.svg" alt="Node.js" width="30" height="30">
-<img src="https://simpleicons.org/icons/java.svg" alt="Java" width="30" height="30">
-<img src="https://simpleicons.org/icons/three-dot-js.svg" alt="Three.js" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" alt="Figma" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30" height="30">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/three-dot-js.svg" alt="Three.js" width="30" height="30">
+
 
 
 
