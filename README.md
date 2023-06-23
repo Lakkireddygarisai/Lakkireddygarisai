@@ -15,19 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/django.svg" alt="Django" width="30" height="30">
 -->
-# 💫 About Me:
-<br>🔭 I’m currently working as a Full Stack Developer.<br>👯 I’m looking to collaborate on frontend and backend projects.<br>💬 Ask me about web development.<br>📫 How to reach me: [Gmail](mailto:sairamsairamvivek@gmail.com).<br>🔭 I just launched my [Portfolio](https://sairamlakkireddy.netlify.app/).<br>💼 See my experience over the years: [Resume](https://drive.google.com/drive/u/0/my-drive).<br>🎨 In my free time, I enjoy creating art.<br>
+## About Me
+I'm a Full Stack Developer with a passion for web development. I enjoy working on both frontend and backend technologies. I also have a background in art, making me an artist as well.
 
+- 🔭 I’m currently working as an Assosiate Software Engineer.
+- 👯 I’m looking to collaborate on frontend and backend projects.
+- 💬 Ask me about web development.
+- 📫 How to reach me: [Gmail](sairamsairamvivek@gmail.com).
+- 🔭 I just launched my portfolio: [Portfolio](https://sairamlakkireddy.netlify.app/).
+- 💼 See my experience over the years: [Resume](https://drive.google.com/drive/u/0/my-drive).
+- 🎨 In my free time, I enjoy creating art.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sai_single1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sairam-lakkireddy/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sairam12312) 
 
 # 💻 Tech Stack
-# Project Title
 
-Brief description of the project.
-
-## Tech Stack
 
 <!-- First Row -->
 <div align="center">
