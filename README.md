@@ -34,98 +34,81 @@ I'm a Full Stack Developer with a passion for web development. I enjoy working o
 
 <!-- 💻 Tech Stack -->
 <div align="center">
-    <!-- First Row -->
-    <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50">
-        </div>
-    </a>
-    <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50">
-        </div>
-    </a>
-    <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50">
-        </div>
-    </a>
 
-    <!-- Second Row -->
+<!-- First Row -->
+<div align="center">
     <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
-        </div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin-right: 30px;">
     </a>
     <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50">
-        </div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-right: 30px;">
     </a>
     <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50">
-        </div>
-    </a>
-
-    <!-- Third Row -->
-    <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50">
-        </div>
-    </a>
-    <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50">
-        </div>
-    </a>
-    <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50">
-        </div>
-    </a>
-
-    <!-- Fourth Row -->
-    <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" alt="Figma" width="50" height="50">
-        </div>
-    </a>
-    <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50">
-        </div>
-    </a>
-    <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50">
-        </div>
-    </a>
-
-    <!-- Fifth Row -->
-    <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50">
-        </div>
-    </a>
-    <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50">
-        </div>
-    </a>
-    <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50">
-        </div>
-    </a>
-
-    <!-- Sixth Row -->
-    <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 30px;">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="50" height="50">
-        </div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50" style="margin-right: 30px;">
     </a>
 </div>
+
+<!-- Second Row -->
+<div align="center">
+    <a href="https://github.com/Lakkireddygarisai" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin-right: 30px;">
+    </a>
+    <a href="https://github.com/Lakkireddygarisai" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50" style="margin-right: 30px;">
+    </a>
+    <a href="https://github.com/Lakkireddygarisai" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin-right: 30px;">
+    </a>
+</div>
+
+<!-- Third Row -->
+<div align="center">
+    <a href="https://github.com/Lakkireddygarisai" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="50" height="50" style="margin-right: 30px;">
+    </a>
+    <a href="https://github.com/Lakkireddygarisai" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="margin-right: 30px;">
+    </a>
+    <a href="https://github.com/Lakkireddygarisai" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="margin-right: 30px;">
+    </a>
+</div>
+
+<!-- Fourth Row -->
+<div align="center">
+    <a href="https://github.com/Lakkireddygarisai" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" alt="Figma" width="50" height="50" style="margin-right: 30px;">
+    </a>
+    <a href="https://github.com/Lakkireddygarisai" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="margin-right: 30px;">
+    </a>
+    <a href="https://github.com/Lakkireddygarisai" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" style="margin-right: 30px;">
+    </a>
+</div>
+
+<!-- Fifth Row -->
+<div align="center">
+    <a href="https://github.com/Lakkireddygarisai" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" style="margin-right: 30px;">
+    </a>
+    <a href="https://github.com/Lakkireddygarisai" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" style="margin-right: 30px;">
+    </a>
+    <a href="https://github.com/Lakkireddygarisai" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50" style="margin-right: 30px;">
+    </a>
+</div>
+
+<!-- Sixth Row -->
+<div align="center">
+    <a href="https://github.com/Lakkireddygarisai" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="50" height="50" style="margin-right: 30px;">
+    </a>
+</div>
+
+</div>
+
 
 
 
