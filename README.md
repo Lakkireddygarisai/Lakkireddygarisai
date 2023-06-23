@@ -54,7 +54,7 @@ I'm a Full Stack Developer with a passion for web development. I enjoy working o
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin-right: 30px;">
     </a>
     <a href="https://github.com/Lakkireddygarisai" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50" style="margin-right: 30px;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.4.0/icons/django.svg" alt="Django" width="50" height="50" style="margin-right: 30px;">
     </a>
     <a href="https://github.com/Lakkireddygarisai" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" style="margin-right: 30px;">
