@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack
 <!-- 💻 Tech Stack -->
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
     <div style="display: flex; flex-direction: row;> 
         <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 10px;">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50">
