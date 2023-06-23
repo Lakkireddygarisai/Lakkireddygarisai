@@ -26,8 +26,7 @@ I'm a Full Stack Developer with a passion for web development. I enjoy working o
 - 💼 See my experience over the years: [Resume](https://drive.google.com/drive/u/0/my-drive).
 - 🎨 In my free time, I enjoy creating art.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sai_single1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sairam-lakkireddy/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sairam12312) 
+
 
 # 💻 Tech Stack
 
@@ -123,10 +122,12 @@ I'm a Full Stack Developer with a passion for web development. I enjoy working o
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Lakkireddygarisai&theme=default&hide_border=false)<br/>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sai_single1/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sairam-lakkireddy/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/sairam12312) 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Lakkireddygarisai&theme=default&hide_border=false)<br/>
 
 </div>
 
