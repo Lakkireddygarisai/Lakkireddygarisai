@@ -23,7 +23,7 @@ I'm a Full Stack Developer with a passion for web development. I enjoy working o
 - 💬 Ask me about web development.
 - 📫 How to reach me: [....Gmail](sairamsairamvivek@gmail.com).
 - 🔭 I just launched my portfolio: [https://sairamlakkireddy.netlify.app/](https://sairamlakkireddy.netlify.app/).
-- 💼 See my experience over the years: [Resume](https://drive.google.com/drive/u/0/my-drive).
+- 💼 See my experience over the years: [Resume](https://drive.google.com/file/d/1x7lP4hwXEEaYFLBx9khD9nm_GNZkWHU9/view?usp=drive_link).
 - 🎨 In my free time, I enjoy creating art.
 
 
