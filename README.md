@@ -36,8 +36,6 @@ Here are some ideas to get you started:
     <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
     </div>
-    <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 10px;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" width="50" height="50">
     </div>
     <div style="background-color: #ECEFF1; padding: 10px; border-radius: 4px; margin-right: 10px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50">
