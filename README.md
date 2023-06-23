@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 # 💻 Tech Stack
 <!-- 💻 Tech Stack -->
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<div style="display: flex; flex-direction: row; align-items: center; ">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-right: 20px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="50" height="50" style="margin-right: 20px;">
