@@ -21,7 +21,7 @@ I'm a Full Stack Developer with a passion for web development. I enjoy working o
 - 🔭 I’m currently working as an Assosiate Software Engineer.
 - 👯 I’m looking to collaborate on frontend and backend projects.
 - 💬 Ask me about web development.
-- 📫 How to reach me: [....Gmail](sairamsairamvivek@gmail.com).
+- 📫 How to reach me: [....Gmail](lakkireddygarisairam@gmail.com).
 - 🔭 I just launched my portfolio: [https://sairamlakkireddy.netlify.app/](https://sairamlakkireddy.netlify.app/).
 - 💼 See my experience over the years: [Resume](https://drive.google.com/file/d/1x7lP4hwXEEaYFLBx9khD9nm_GNZkWHU9/view?usp=drive_link).
 - 🎨 In my free time, I enjoy creating art.
